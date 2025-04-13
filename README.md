@@ -31,7 +31,7 @@ Software versions used for development (**compatibility with earlier versions ha
 
 ## Setup Instructions
 1. Download this repository.
-2. Unzip project and open the index.html file.
+2. Unzip project and open the `index.html` file.
 
 ## Screenshots
 
