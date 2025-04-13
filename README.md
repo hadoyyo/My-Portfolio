@@ -30,7 +30,7 @@ Software versions used for development (**compatibility with earlier versions ha
 - Bootstrap 5.0
 
 ## Setup Instructions
-1. Download this repository.
+1. Download `myWeb` folder.
 2. Unzip project and open the `index.html` file.
 
 ## Screenshots
