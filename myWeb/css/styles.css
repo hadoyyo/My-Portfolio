@@ -11006,7 +11006,7 @@ section.resume-section .resume-section-content {
     background-image: url('../assets/img/pasieka_mini.jpg');
 }
   .card-4 .card-body {
-    background-image: url('../assets/img/snake_mini.jpg');
+    background-image: url('../assets/img/snake_mini.png');
 }
   .card-5 .card-body {
     background-image: url('../assets/img/arena_mini.jpg');
@@ -11025,6 +11025,10 @@ section.resume-section .resume-section-content {
 
 .card-9 .card-body {
   background-image: url('../assets/img/applant_mini.jpg');
+}
+
+.card-10 .card-body {
+  background-image: url('../assets/img/brakeless_mini.png');
 }
 
   .text-content {
