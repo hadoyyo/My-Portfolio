@@ -10,7 +10,9 @@
 - 📸 [Screenshots](#screenshots)
 
 ## Project Overview
-A site made to gather all projects and certifications in one place and easily access them. **The website is available in English language version!**
+A site made to gather all projects and certifications in one place and easily access them. 
+> [!NOTE]  
+> The website is available in English language version!
 
 ## Features
 - 🃏 Projects displayed using cards, with brief descriptions
@@ -26,8 +28,10 @@ A site made to gather all projects and certifications in one place and easily ac
 - JavaScript
 
 ## Requirements
-Software versions used for development (**compatibility with earlier versions has not been tested**):
+Software versions used for development:
 - Bootstrap 5.0
+> [!WARNING]  
+> Compatibility with earlier versions has not been tested.
 
 ## Setup Instructions
 1. Download `myWeb` folder.
