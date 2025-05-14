@@ -11031,6 +11031,10 @@ section.resume-section .resume-section-content {
   background-image: url('../assets/img/brakeless_mini.png');
 }
 
+.card-11 .card-body {
+  background-image: url('../assets/img/litepay_mini.png');
+}
+
   .text-content {
       color: white;
       text-align: center; 
