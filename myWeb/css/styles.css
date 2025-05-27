@@ -11020,7 +11020,7 @@ section.resume-section .resume-section-content {
 }
 
 .card-8 .card-body {
-  background-image: url('../assets/img/mcgranit_mini.png');
+  background-image: url('../assets/img/mcgranit_mini.jpg');
 }
 
 .card-9 .card-body {
@@ -11033,6 +11033,10 @@ section.resume-section .resume-section-content {
 
 .card-11 .card-body {
   background-image: url('../assets/img/litepay_mini.png');
+}
+
+.card-12 .card-body {
+  background-image: url('../assets/img/habita_mini.jpg');
 }
 
   .text-content {
