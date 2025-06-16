@@ -4212,6 +4212,7 @@ textarea.form-control-lg {
   flex: 1 1 auto;
   padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
   color: var(--bs-card-color);
+  align-items: center;
 }
 
 .card-title {
@@ -11037,6 +11038,10 @@ section.resume-section .resume-section-content {
 
 .card-12 .card-body {
   background-image: url('../assets/img/habita_mini.jpg');
+}
+
+.card-13 .card-body {
+  background-image: url('../assets/img/energostat_mini.png');
 }
 
   .text-content {
